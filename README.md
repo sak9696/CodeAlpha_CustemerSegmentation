@@ -1,12 +1,12 @@
 ## 📊 Customer Segmentation & Business Intelligence
-Code Alpha – Task 3 (Data Analytics Internship)
-👩‍💻 Author
+- Code Alpha – Task 3 (Data Analytics Internship)
+- 👩‍💻 Author
 
-Name: Sakshi Jadhav
-Internship: Code Alpha – Data Analytics
-Task: Task 3 – Customer Segmentation
-Tools: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
-Platform: Google Colab
+- Name: Sakshi Jadhav
+- Internship: Code Alpha – Data Analytics
+- Task: Task 3 – Customer Segmentation
+- Tools: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Platform: Google Colab
 
 ## 📌 Project Overview
 
@@ -17,99 +17,99 @@ The project not only fulfills the basic task requirements but also includes adva
 
 ## 🎯 Objectives
 
-Understand customer behavior using data
+- Understand customer behavior using data
 
-Segment customers based on income and spending patterns
+- Segment customers based on income and spending patterns
 
-Apply clustering techniques for grouping customers
+- Apply clustering techniques for grouping customers
 
-Extract actionable business insights from data
+- Extract actionable business insights from data
 
-Present insights through effective visualizations
+- Present insights through effective visualizations
 
 ## ✅ Required Task Implementation
 
-✔️ Dataset creation and loading
-✔️ Data cleaning and preprocessing
-✔️ Exploratory Data Analysis (EDA)
-✔️ Basic visualizations
-✔️ Customer grouping
+- ✔️ Dataset creation and loading
+- ✔️ Data cleaning and preprocessing
+- ✔️ Exploratory Data Analysis (EDA)
+- ✔️ Basic visualizations
+- ✔️ Customer grouping
 
 ## 🚀 Advanced Enhancements (Beyond Requirements)
 
-⭐ Applied K-Means Clustering for customer segmentation
-⭐ Used Elbow Method to identify optimal number of clusters
-⭐ Performed Feature Engineering (Spending Categories)
-⭐ Created Cluster Profiling using aggregated metrics
-⭐ Added Rule-based Business Intelligence tagging
-⭐ Generated Insight-driven visualizations
-⭐ Exported final segmented dataset for business use
+- ⭐ Applied K-Means Clustering for customer segmentation
+- ⭐ Used Elbow Method to identify optimal number of clusters
+- ⭐ Performed Feature Engineering (Spending Categories)
+- ⭐ Created Cluster Profiling using aggregated metrics
+- ⭐ Added Rule-based Business Intelligence tagging
+- ⭐ Generated Insight-driven visualizations
+- ⭐ Exported final segmented dataset for business use
 
 ## 📈 Visualizations Included
 
-Annual Income vs Spending Score
+- Annual Income vs Spending Score
 
-Elbow Curve for optimal clusters
+- Elbow Curve for optimal clusters
 
-Cluster-wise customer distribution
+- Cluster-wise customer distribution
 
-Age vs Spending behavior
+- Age vs Spending behavior
 
-Customer Type distribution
+- Customer Type distribution
 
-Cluster profiling heatmap
+- Cluster profiling heatmap
 
 ## 🧠 Business Insights
 
-Premium Customers: High income & high spending → Loyalty programs
+- Premium Customers: High income & high spending → Loyalty programs
 
-High Potential Customers: Medium income, high spending → Targeted offers
+- High Potential Customers: Medium income, high spending → Targeted offers
 
-Regular Customers: Stable income & spending → Retention strategies
+- Regular Customers: Stable income & spending → Retention strategies
 
-Low Engagement Customers: Low spending → Re-engagement campaigns
+- Low Engagement Customers: Low spending → Re-engagement campaigns
 
-These insights can help businesses optimize marketing strategies, customer retention, and revenue growth.
+- These insights can help businesses optimize marketing strategies, customer retention, and revenue growth.
 
 ## 🛠️ Technologies Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Scikit-learn
+- Scikit-learn
 
-Google Colab
+- Google Colab
 
 ## 📤 Final Output
 
-Cleaned and segmented customer dataset
+- Cleaned and segmented customer dataset
 
-Visual analytics for business understanding
+- Visual analytics for business understanding
 
-Actionable customer insights
+- Actionable customer insights
 
-Exported CSV file for further use
+- Exported CSV file for further use
 
 ## 🌟 Key Learning Outcomes
 
-Hands-on experience with clustering algorithms
+- Hands-on experience with clustering algorithms
 
-Understanding customer behavior through analytics
+- Understanding customer behavior through analytics
 
-Translating raw data into business decisions
+- Translating raw data into business decisions
 
-Improving storytelling using data visualization
+- Improving storytelling using data visualization
 
 ## 🔖 Internship Credit
 
-This project was completed as part of the Code Alpha Data Analytics Internship – Task 3.
+- This project was completed as part of the Code Alpha Data Analytics Internship – Task 3.
 
 ## ⭐ If you found this project useful, feel free to star the repository!
 
